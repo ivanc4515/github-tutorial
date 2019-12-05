@@ -33,4 +33,6 @@ Then the repository will be on git hub
 * mkdir NAME = make directory with name
 * touch NAME = makes a file with the name
 * c9 FILENAME = go into file to edit
-* git add NAME
+* git add NAME = add file to stagging area
+* git commit -m "words" = commit the file in stagging area
+* 
